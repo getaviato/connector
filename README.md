@@ -19,7 +19,7 @@ irm https://getaviato.com/install.ps1 | iex
 
 Set `AVIATO_VERSION` (for example `0.5.1`) to install a specific release, and `AVIATO_INSTALL_DIR` to choose the directory. The scripts verify each binary against the release's `checksums.txt`.
 
-The Docker image is published as [`getaviato/connector`](https://hub.docker.com/r/getaviato/connector) on Docker Hub and `ghcr.io/getaviato/connector`.
+The Docker image is published on Docker Hub as [`getaviato/connector`](https://hub.docker.com/r/getaviato/connector).
 
 ## Support
 
