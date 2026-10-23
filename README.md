@@ -23,4 +23,4 @@ The Docker image is published as [`getaviato/connector`](https://hub.docker.com/
 
 ## Support
 
-Questions and bug reports: open an issue here or write to support@getaviato.com.
+Questions and bug reports: open an issue in this repository.
